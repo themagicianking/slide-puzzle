@@ -34,7 +34,7 @@ This project currently does not have any testing.
 - [ ] Double check that setup instructions will install all dependencies correctly
 - [ ] Add ability to move tiles with arrow keys ([issue](https://github.com/themagicianking/slide-puzzle/issues/2))
 - [ ] Add ability to move tiles by clicking with mouse ([issue](https://github.com/themagicianking/slide-puzzle/issues/3))
-- [ ] Add win screen if user solves the puzzle with "play again" button ([issue](https://github.com/themagicianking/slide-puzzle/issues/4)
+- [ ] Add win screen if user solves the puzzle with "play again" button ([issue](https://github.com/themagicianking/slide-puzzle/issues/4))
 - [ ] Add testing
 
 ## Reference
